@@ -1,0 +1,18 @@
+INVOICE
+
+From: Acme Supplies
+Invoice Number: INV-2024-101
+Invoice Date: 2024-03-28
+Due Date: 2024-04-28
+
+Purchase Order Reference: PO-2024-001
+
+Line Items:
+- Widget A x 100 units @ £50.00 each = £5,000.00
+
+Subtotal: £5,000.00
+VAT (20%): £1,000.00
+Total Due: £6,000.00
+
+Bank Details:
+Account: GB29NWBK60161331926819
